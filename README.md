@@ -16,7 +16,7 @@
     <h2>🛠️ Skills</h2>
       <ul>
         <li><strong>Languages:</strong> Ukrainian (Fluent), Russian (Fluent), English (Intermediate), Czech (Beginner)</li>
-        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript, TypeScript</li>
+        <li><strong>Programming languages:</strong> HTML, CSS, JavaScript, TypeScript</li>
         <li><strong>Frameworks:</strong> React.js, Next.js</li>
         <li><strong>Tools:</strong> Git, Postman/Insomnia, Figma, npm, Trello, Jira</li>
       </ul>
