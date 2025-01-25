@@ -1,10 +1,29 @@
-<h1 align="center">Hi 👋, I'm Oleksandr</h1>
-<h3 align="center">A passionate Frontend Web Developer from Ukraine. Currently, my focus is on advancing my Frontend expertise, but I am also eager to broaden my horizons in full-stack development. I’m excited to contribute to a team where I can continue growing, learning and building impactful web experiences.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alexkornevskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexkornevskyi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Hi 👋, I'm Oleksandr.</h1>
+    <h2>A passionate Frontend Web Developer from Ukraine.</h2>
+    <p>Currently, my focus is on advancing my Frontend expertise, but I am also eager to broaden my horizons in full-stack development. I’m excited to contribute to a team where I can continue growing, learning and building impactful web experiences.</p>
+    <h2>🔭 Work Experience</h2>
+    <ul>
+        <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects (March 2024 - Present)
+            <ul>
+                <li>Developed a user interface for an admin dashboard with draggable elements, comprehensive data visualization in the form of charts and tables, and various other features. React.js, TypeScript, Material-UI and more.</li>
+                <li>Developing a user interface for an online classifieds platform that brings people together to buy or sell goods and services. React.js, TypeScript, Tailwind CSS and more.</li>
+            </ul>
+        </li>
+    </ul>
+    <h2>🛠️ Skills</h2>
+      <ul>
+        <li><strong>Languages:</strong> Ukrainian (Fluent), Russian (Fluent), English (Intermediate), Czech (Beginner)</li>
+        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript, TypeScript</li>
+        <li><strong>Frameworks:</strong> React.js, Next.js</li>
+        <li><strong>Tools:</strong> Git, Postman/Insomnia, Figma, npm, Trello, Jira</li>
+      </ul>
+    <h2>📚 Education</h2>
+    <ul>
+        <li>National Technical University ”Kharkiv Polytechnic Institute”. Educational program: Micro- and nano-system technology (Bachelor’s Degree) (2019 - 2022)</li>
+        <li>National Technical University ”Kharkiv Polytechnic Institute”. Educational program: Micro- and nano-system technology (Master’s Degree) (2022 - 2023)</li>
+    </ul>
+</body>
+</html>
