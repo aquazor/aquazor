@@ -6,7 +6,7 @@
     <p>Currently, my focus is on advancing my Frontend expertise, but I am also eager to broaden my horizons in full-stack development. I’m excited to contribute to a team where I can continue growing, learning and building impactful web experiences.</p>
     <h2>🔭 Work Experience</h2>
     <ul>
-        <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects (March 2024 - Present)
+        <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/"/>Yuki Projects (March 2024 - Present)
             <ul>
                 <li>Developed a user interface for an admin dashboard with draggable elements, comprehensive data visualization in the form of charts and tables, and various other features. React.js, TypeScript, Material-UI and more.</li>
                 <li>Developing a user interface for an online classifieds platform that brings people together to buy or sell goods and services. React.js, TypeScript, Tailwind CSS and more.</li>
