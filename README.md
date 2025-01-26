@@ -8,8 +8,8 @@
     <ul>
         <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects</a> (March 2024 - Present)
             <ul>
-                <li>Developed a user interface for an admin dashboard with draggable elements, comprehensive data visualization in the form of charts and tables, and various other features. React.js, TypeScript, Material-UI and more.</li>
-                <li>Developing a user interface for an online classifieds platform that brings people together to buy or sell goods and services. React.js, TypeScript, Tailwind CSS and more.</li>
+                <li>Developed a user interface for an admin dashboard with draggable elements, comprehensive data visualization in the form of charts and tables, and various other features. <strong>React.js, TypeScript, Material-UI</strong></li>
+                <li>Developing a user interface for an online classifieds platform that brings people together to buy or sell goods and services. <strong>React.js, TypeScript, Tailwind CSS</strong></li>
             </ul>
         </li>
     </ul>
