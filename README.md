@@ -19,6 +19,7 @@
         <li><strong>Languages:</strong> Ukrainian (Fluent), Russian (Fluent), English (Intermediate), Czech (Beginner)</li>
         <li><strong>Programming languages:</strong> HTML, CSS, JavaScript, TypeScript</li>
         <li><strong>Frameworks:</strong> React.js, Next.js</li>
+        <li><strong>Testing:</strong> Cypress</li>
         <li><strong>Tools:</strong> Git, Figma, npm, Trello, Jira</li>
       </ul>
     <h2>📚 Education</h2>
