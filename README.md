@@ -23,7 +23,7 @@ ensuring reliable user experiences.</p>
         <li><strong>Programming languages:</strong> HTML, CSS, JavaScript, TypeScript</li>
         <li><strong>Frameworks:</strong> React.js, Next.js</li>
         <li><strong>Testing:</strong> Cypress</li>
-        <li><strong>Tools:</strong> Git, Figma, npm, Trello, Jira</li>
+        <li><strong>Tools:</strong> Git, Figma, npm, Postman/Insomnia, Trello, Jira</li>
       </ul>
     <h2>📚 Education</h2>
     <ul>
