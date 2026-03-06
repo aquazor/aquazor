@@ -2,8 +2,14 @@
 <html>
 <body>
     <h1>Hi 👋, I'm Oleksandr.</h1>
-    <h2>A passionate Frontend Web Developer from Ukraine.</h2>
-    <p>Currently, my focus is on advancing my Frontend expertise, but I am also eager to broaden my horizons in full-stack development. I’m excited to contribute to a team where I can continue growing, learning and building impactful web experiences.</p>
+    <h2>An aspiring QA Engineer with a Frontend Development background from Ukraine.</h2>
+    <p>
+I started my career as a Frontend Web Developer, building responsive and user-friendly interfaces with React and TypeScript. 
+While working closely with applications and their behavior, I developed a strong interest in software quality, testing, and 
+ensuring reliable user experiences. 
+Currently, I am focusing on transitioning into QA Engineering, improving my skills in manual and automated testing. I’m excited to contribute to a team where I can help deliver stable, 
+well-tested products while continuing to grow in the QA field.
+</p>
     <h2>🔭 Work Experience</h2>
     <ul>
         <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects</a> (March 2024 - May 2025)
