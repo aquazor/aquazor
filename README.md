@@ -3,13 +3,11 @@
 <body>
     <h1>Hi 👋, I'm Oleksandr.</h1>
     <h2>An aspiring QA Engineer with a Frontend Development background from Ukraine.</h2>
-    <p>
-I started my career as a Frontend Web Developer, building responsive and user-friendly interfaces with React and TypeScript. 
+    <p>I started my career as a Frontend Web Developer, building responsive and user-friendly interfaces with React and TypeScript. 
 While working closely with applications and their behavior, I developed a strong interest in software quality, testing, and 
-ensuring reliable user experiences. 
-Currently, I am focusing on transitioning into QA Engineering, improving my skills in manual and automated testing. I’m excited to contribute to a team where I can help deliver stable, 
-well-tested products while continuing to grow in the QA field.
-</p>
+ensuring reliable user experiences.</p>
+    <p>Currently, I am focusing on transitioning into QA Engineering, improving my skills in manual and automated testing. I’m excited to contribute to a team where I can help deliver stable, 
+    well-tested products while continuing to grow in the QA field.</p>
     <h2>🔭 Work Experience</h2>
     <ul>
         <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects</a> (March 2024 - May 2025)
