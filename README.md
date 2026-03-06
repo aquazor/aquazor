@@ -4,7 +4,6 @@
     <h1>Hi 👋, I'm Oleksandr.</h1>
     <h2>A passionate Frontend Web Developer from Ukraine.</h2>
     <p>Currently, my focus is on advancing my Frontend expertise, but I am also eager to broaden my horizons in full-stack development. I’m excited to contribute to a team where I can continue growing, learning and building impactful web experiences.</p>
-    <p><a href="https://oleksandr-kornevskyi.vercel.app/">Check out my CV</a></p>
     <h2>🔭 Work Experience</h2>
     <ul>
         <li><b>Frontend Web Developer</b> at <a href="https://www.linkedin.com/company/yuki-projects/">Yuki Projects</a> (March 2024 - Present)
